@@ -15,4 +15,4 @@ Cleaned and preprocessed the using Restaurents Order dataset using Microsoft Exc
 - data-cleaning.xlsx
 - Instructions and summary in this README
 
-Dataset from: [Kaggle Restaurent Dataset](https://www.kaggle.com/datasets/restaurentorders)
+Dataset from: [Kaggle Restaurent Dataset](https://www.kaggle.com/search?q=restaurant+sales)
