@@ -15,4 +15,4 @@ Cleaned and preprocessed the using Restaurents Order dataset using Microsoft Exc
 - data-cleaning.xlsx
 - Instructions and summary in this README
 
-Dataset from: [Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+Dataset from: [Kaggle Restaurent Dataset](https://www.kaggle.com/datasets/restaurentorders)
